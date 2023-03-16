@@ -18,7 +18,7 @@ Before Column            |     After Column
 :-----------------------:|:---------------------:
 ![](contract_before.png) |![](contact_after.png)
 
-##Height column
+## Height column
 The ‘Height’ column in the dataset contains measurements in different units such as cm, inches, and feet. To standardize the units, i converted all the measurements to cm and the following steps were taken to address this issue:
 
 Identified all entries in ft/in format using the Text.Contains function.
