@@ -81,8 +81,7 @@ else
 
  before column               |     after column
 :---------------------------:|:--------------------------:
-![](release_clausebefore.png)![release_clauseafter](https://user-images.githubusercontent.com/126922761/225776581-8b984d4c-b89b-484c-afc7-16a0cfef3adc.png)
-|![](release_clauseafter.png)
+![](release_clausebefore.png)|![](release_clauseafter.png)
 
 (if Text.Contains([Release Clause], "M") then
     Number.From(Text.BeforeDelimiter([Release Clause], "M")) * 1000000
