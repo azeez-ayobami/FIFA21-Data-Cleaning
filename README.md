@@ -77,7 +77,7 @@ else
    :------------------:|:----------------:
    ![](wage_before.png)|![](wage_after.png)
    
-Release column
+## Release column
 
  before column               |     after column
 :---------------------------:|:--------------------------:
