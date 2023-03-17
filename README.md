@@ -119,6 +119,8 @@ before column      |     after column
 
 ## Conclusion
 this dataset has undergone several transformations to clean and prepare it for analysis. Through these transformations, we were able to remove irrelevant columns, fix inconsistencies in data types, handle missing values, and convert measurement units to a standardized format.The insights drawn from the project highlight the importance of thorough data cleaning processes in ensuring the accuracy and reliability of datasets for further analysis. The cleaned dataset can now be used for further analysis, modeling, and visualization.
+
+![](thankyou.png)
    
    
    
